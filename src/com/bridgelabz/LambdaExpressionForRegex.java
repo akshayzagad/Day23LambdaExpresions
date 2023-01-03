@@ -5,8 +5,10 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class LambdaExpressionForRegex {
+
     Scanner input = new Scanner(System.in);
 public void lambdaExpression(){
+    System.out.println("Welcome to Lambda Expression Regex Pattern Programme");
     /**
      * Regular expression patterns
      */
